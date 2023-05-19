@@ -1,6 +1,17 @@
-# Getting Started with Create React App
+# React App TypeScript Example
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Instructions
+1. Change the main page to allow the below grids to be visible.
+2. Add a grid that can display all user data with a call to the API.
+3. Add a grid that can display all app data with a call to the API.
+4. Add a grid that can display all users with their app data with a call to the API.
+
+### Notes
+1. Use any open-source libraries needed in the React app to interface with the API.  
+2. Bonus if you add any sort of navigation between grids.  That could be true navigation between grid components, or a selector of some sort to show the different grids.
+3. Bonus for good styling, but don’t go overboard.  This assessment is more to demonstrate coding ability than design.
 
 ## Available Scripts
 
